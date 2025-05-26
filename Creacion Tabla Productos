@@ -1,0 +1,14 @@
+// Generar 100 productos de prueba
+let productos = [];
+for (let i = 1; i <= 100; i++) {
+  productos.push({
+    nombre: `Producto ${i}`,
+    precio: Math.floor(Math.random() * 500) + 50, // Precio entre 50 y 550
+    stock: Math.floor(Math.random() * 100) + 1,    // Stock entre 1 y 100
+    categoria: `Categoria ${Math.ceil(i / 10)}`,   // 10 categorías distintas
+    descripcion: `Este es el producto número ${i}`
+  });
+}
+
+// Insertar en la colección
+db.productos.insertMany(productos);

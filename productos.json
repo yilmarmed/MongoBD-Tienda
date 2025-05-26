@@ -1,0 +1,702 @@
+[
+  {
+    "nombre": "Producto 1",
+    "precio": 423,
+    "stock": 80,
+    "categoria": "Categoria 1",
+    "descripcion": "Este es el producto número 1"
+  },
+  {
+    "nombre": "Producto 2",
+    "precio": 93,
+    "stock": 31,
+    "categoria": "Categoria 1",
+    "descripcion": "Este es el producto número 2"
+  },
+  {
+    "nombre": "Producto 3",
+    "precio": 197,
+    "stock": 74,
+    "categoria": "Categoria 1",
+    "descripcion": "Este es el producto número 3"
+  },
+  {
+    "nombre": "Producto 4",
+    "precio": 135,
+    "stock": 68,
+    "categoria": "Categoria 1",
+    "descripcion": "Este es el producto número 4"
+  },
+  {
+    "nombre": "Producto 5",
+    "precio": 194,
+    "stock": 36,
+    "categoria": "Categoria 1",
+    "descripcion": "Este es el producto número 5"
+  },
+  {
+    "nombre": "Producto 6",
+    "precio": 332,
+    "stock": 19,
+    "categoria": "Categoria 1",
+    "descripcion": "Este es el producto número 6"
+  },
+  {
+    "nombre": "Producto 7",
+    "precio": 424,
+    "stock": 9,
+    "categoria": "Categoria 1",
+    "descripcion": "Este es el producto número 7"
+  },
+  {
+    "nombre": "Producto 8",
+    "precio": 539,
+    "stock": 28,
+    "categoria": "Categoria 1",
+    "descripcion": "Este es el producto número 8"
+  },
+  {
+    "nombre": "Producto 9",
+    "precio": 315,
+    "stock": 59,
+    "categoria": "Categoria 1",
+    "descripcion": "Este es el producto número 9"
+  },
+  {
+    "nombre": "Producto 10",
+    "precio": 217,
+    "stock": 49,
+    "categoria": "Categoria 1",
+    "descripcion": "Este es el producto número 10"
+  },
+  {
+    "nombre": "Producto 11",
+    "precio": 101,
+    "stock": 24,
+    "categoria": "Categoria 2",
+    "descripcion": "Este es el producto número 11"
+  },
+  {
+    "nombre": "Producto 12",
+    "precio": 404,
+    "stock": 69,
+    "categoria": "Categoria 2",
+    "descripcion": "Este es el producto número 12"
+  },
+  {
+    "nombre": "Producto 13",
+    "precio": 83,
+    "stock": 47,
+    "categoria": "Categoria 2",
+    "descripcion": "Este es el producto número 13"
+  },
+  {
+    "nombre": "Producto 14",
+    "precio": 437,
+    "stock": 12,
+    "categoria": "Categoria 2",
+    "descripcion": "Este es el producto número 14"
+  },
+  {
+    "nombre": "Producto 15",
+    "precio": 325,
+    "stock": 55,
+    "categoria": "Categoria 2",
+    "descripcion": "Este es el producto número 15"
+  },
+  {
+    "nombre": "Producto 16",
+    "precio": 472,
+    "stock": 70,
+    "categoria": "Categoria 2",
+    "descripcion": "Este es el producto número 16"
+  },
+  {
+    "nombre": "Producto 17",
+    "precio": 492,
+    "stock": 84,
+    "categoria": "Categoria 2",
+    "descripcion": "Este es el producto número 17"
+  },
+  {
+    "nombre": "Producto 18",
+    "precio": 501,
+    "stock": 82,
+    "categoria": "Categoria 2",
+    "descripcion": "Este es el producto número 18"
+  },
+  {
+    "nombre": "Producto 19",
+    "precio": 124,
+    "stock": 12,
+    "categoria": "Categoria 2",
+    "descripcion": "Este es el producto número 19"
+  },
+  {
+    "nombre": "Producto 20",
+    "precio": 446,
+    "stock": 80,
+    "categoria": "Categoria 2",
+    "descripcion": "Este es el producto número 20"
+  },
+  {
+    "nombre": "Producto 21",
+    "precio": 309,
+    "stock": 70,
+    "categoria": "Categoria 3",
+    "descripcion": "Este es el producto número 21"
+  },
+  {
+    "nombre": "Producto 22",
+    "precio": 275,
+    "stock": 37,
+    "categoria": "Categoria 3",
+    "descripcion": "Este es el producto número 22"
+  },
+  {
+    "nombre": "Producto 23",
+    "precio": 65,
+    "stock": 13,
+    "categoria": "Categoria 3",
+    "descripcion": "Este es el producto número 23"
+  },
+  {
+    "nombre": "Producto 24",
+    "precio": 212,
+    "stock": 45,
+    "categoria": "Categoria 3",
+    "descripcion": "Este es el producto número 24"
+  },
+  {
+    "nombre": "Producto 25",
+    "precio": 454,
+    "stock": 7,
+    "categoria": "Categoria 3",
+    "descripcion": "Este es el producto número 25"
+  },
+  {
+    "nombre": "Producto 26",
+    "precio": 396,
+    "stock": 24,
+    "categoria": "Categoria 3",
+    "descripcion": "Este es el producto número 26"
+  },
+  {
+    "nombre": "Producto 27",
+    "precio": 329,
+    "stock": 38,
+    "categoria": "Categoria 3",
+    "descripcion": "Este es el producto número 27"
+  },
+  {
+    "nombre": "Producto 28",
+    "precio": 280,
+    "stock": 44,
+    "categoria": "Categoria 3",
+    "descripcion": "Este es el producto número 28"
+  },
+  {
+    "nombre": "Producto 29",
+    "precio": 89,
+    "stock": 66,
+    "categoria": "Categoria 3",
+    "descripcion": "Este es el producto número 29"
+  },
+  {
+    "nombre": "Producto 30",
+    "precio": 311,
+    "stock": 9,
+    "categoria": "Categoria 3",
+    "descripcion": "Este es el producto número 30"
+  },
+  {
+    "nombre": "Producto 31",
+    "precio": 103,
+    "stock": 67,
+    "categoria": "Categoria 4",
+    "descripcion": "Este es el producto número 31"
+  },
+  {
+    "nombre": "Producto 32",
+    "precio": 240,
+    "stock": 83,
+    "categoria": "Categoria 4",
+    "descripcion": "Este es el producto número 32"
+  },
+  {
+    "nombre": "Producto 33",
+    "precio": 172,
+    "stock": 80,
+    "categoria": "Categoria 4",
+    "descripcion": "Este es el producto número 33"
+  },
+  {
+    "nombre": "Producto 34",
+    "precio": 182,
+    "stock": 46,
+    "categoria": "Categoria 4",
+    "descripcion": "Este es el producto número 34"
+  },
+  {
+    "nombre": "Producto 35",
+    "precio": 376,
+    "stock": 13,
+    "categoria": "Categoria 4",
+    "descripcion": "Este es el producto número 35"
+  },
+  {
+    "nombre": "Producto 36",
+    "precio": 540,
+    "stock": 99,
+    "categoria": "Categoria 4",
+    "descripcion": "Este es el producto número 36"
+  },
+  {
+    "nombre": "Producto 37",
+    "precio": 152,
+    "stock": 44,
+    "categoria": "Categoria 4",
+    "descripcion": "Este es el producto número 37"
+  },
+  {
+    "nombre": "Producto 38",
+    "precio": 193,
+    "stock": 76,
+    "categoria": "Categoria 4",
+    "descripcion": "Este es el producto número 38"
+  },
+  {
+    "nombre": "Producto 39",
+    "precio": 530,
+    "stock": 69,
+    "categoria": "Categoria 4",
+    "descripcion": "Este es el producto número 39"
+  },
+  {
+    "nombre": "Producto 40",
+    "precio": 416,
+    "stock": 40,
+    "categoria": "Categoria 4",
+    "descripcion": "Este es el producto número 40"
+  },
+  {
+    "nombre": "Producto 41",
+    "precio": 467,
+    "stock": 3,
+    "categoria": "Categoria 5",
+    "descripcion": "Este es el producto número 41"
+  },
+  {
+    "nombre": "Producto 42",
+    "precio": 430,
+    "stock": 31,
+    "categoria": "Categoria 5",
+    "descripcion": "Este es el producto número 42"
+  },
+  {
+    "nombre": "Producto 43",
+    "precio": 131,
+    "stock": 95,
+    "categoria": "Categoria 5",
+    "descripcion": "Este es el producto número 43"
+  },
+  {
+    "nombre": "Producto 44",
+    "precio": 421,
+    "stock": 64,
+    "categoria": "Categoria 5",
+    "descripcion": "Este es el producto número 44"
+  },
+  {
+    "nombre": "Producto 45",
+    "precio": 441,
+    "stock": 11,
+    "categoria": "Categoria 5",
+    "descripcion": "Este es el producto número 45"
+  },
+  {
+    "nombre": "Producto 46",
+    "precio": 540,
+    "stock": 19,
+    "categoria": "Categoria 5",
+    "descripcion": "Este es el producto número 46"
+  },
+  {
+    "nombre": "Producto 47",
+    "precio": 440,
+    "stock": 38,
+    "categoria": "Categoria 5",
+    "descripcion": "Este es el producto número 47"
+  },
+  {
+    "nombre": "Producto 48",
+    "precio": 288,
+    "stock": 100,
+    "categoria": "Categoria 5",
+    "descripcion": "Este es el producto número 48"
+  },
+  {
+    "nombre": "Producto 49",
+    "precio": 260,
+    "stock": 9,
+    "categoria": "Categoria 5",
+    "descripcion": "Este es el producto número 49"
+  },
+  {
+    "nombre": "Producto 50",
+    "precio": 113,
+    "stock": 25,
+    "categoria": "Categoria 5",
+    "descripcion": "Este es el producto número 50"
+  },
+  {
+    "nombre": "Producto 51",
+    "precio": 315,
+    "stock": 64,
+    "categoria": "Categoria 6",
+    "descripcion": "Este es el producto número 51"
+  },
+  {
+    "nombre": "Producto 52",
+    "precio": 244,
+    "stock": 94,
+    "categoria": "Categoria 6",
+    "descripcion": "Este es el producto número 52"
+  },
+  {
+    "nombre": "Producto 53",
+    "precio": 526,
+    "stock": 75,
+    "categoria": "Categoria 6",
+    "descripcion": "Este es el producto número 53"
+  },
+  {
+    "nombre": "Producto 54",
+    "precio": 89,
+    "stock": 2,
+    "categoria": "Categoria 6",
+    "descripcion": "Este es el producto número 54"
+  },
+  {
+    "nombre": "Producto 55",
+    "precio": 360,
+    "stock": 67,
+    "categoria": "Categoria 6",
+    "descripcion": "Este es el producto número 55"
+  },
+  {
+    "nombre": "Producto 56",
+    "precio": 306,
+    "stock": 77,
+    "categoria": "Categoria 6",
+    "descripcion": "Este es el producto número 56"
+  },
+  {
+    "nombre": "Producto 57",
+    "precio": 332,
+    "stock": 61,
+    "categoria": "Categoria 6",
+    "descripcion": "Este es el producto número 57"
+  },
+  {
+    "nombre": "Producto 58",
+    "precio": 131,
+    "stock": 29,
+    "categoria": "Categoria 6",
+    "descripcion": "Este es el producto número 58"
+  },
+  {
+    "nombre": "Producto 59",
+    "precio": 297,
+    "stock": 55,
+    "categoria": "Categoria 6",
+    "descripcion": "Este es el producto número 59"
+  },
+  {
+    "nombre": "Producto 60",
+    "precio": 126,
+    "stock": 41,
+    "categoria": "Categoria 6",
+    "descripcion": "Este es el producto número 60"
+  },
+  {
+    "nombre": "Producto 61",
+    "precio": 345,
+    "stock": 33,
+    "categoria": "Categoria 7",
+    "descripcion": "Este es el producto número 61"
+  },
+  {
+    "nombre": "Producto 62",
+    "precio": 155,
+    "stock": 10,
+    "categoria": "Categoria 7",
+    "descripcion": "Este es el producto número 62"
+  },
+  {
+    "nombre": "Producto 63",
+    "precio": 153,
+    "stock": 6,
+    "categoria": "Categoria 7",
+    "descripcion": "Este es el producto número 63"
+  },
+  {
+    "nombre": "Producto 64",
+    "precio": 438,
+    "stock": 8,
+    "categoria": "Categoria 7",
+    "descripcion": "Este es el producto número 64"
+  },
+  {
+    "nombre": "Producto 65",
+    "precio": 187,
+    "stock": 84,
+    "categoria": "Categoria 7",
+    "descripcion": "Este es el producto número 65"
+  },
+  {
+    "nombre": "Producto 66",
+    "precio": 257,
+    "stock": 91,
+    "categoria": "Categoria 7",
+    "descripcion": "Este es el producto número 66"
+  },
+  {
+    "nombre": "Producto 67",
+    "precio": 506,
+    "stock": 33,
+    "categoria": "Categoria 7",
+    "descripcion": "Este es el producto número 67"
+  },
+  {
+    "nombre": "Producto 68",
+    "precio": 370,
+    "stock": 8,
+    "categoria": "Categoria 7",
+    "descripcion": "Este es el producto número 68"
+  },
+  {
+    "nombre": "Producto 69",
+    "precio": 209,
+    "stock": 89,
+    "categoria": "Categoria 7",
+    "descripcion": "Este es el producto número 69"
+  },
+  {
+    "nombre": "Producto 70",
+    "precio": 149,
+    "stock": 32,
+    "categoria": "Categoria 7",
+    "descripcion": "Este es el producto número 70"
+  },
+  {
+    "nombre": "Producto 71",
+    "precio": 472,
+    "stock": 2,
+    "categoria": "Categoria 8",
+    "descripcion": "Este es el producto número 71"
+  },
+  {
+    "nombre": "Producto 72",
+    "precio": 210,
+    "stock": 44,
+    "categoria": "Categoria 8",
+    "descripcion": "Este es el producto número 72"
+  },
+  {
+    "nombre": "Producto 73",
+    "precio": 496,
+    "stock": 27,
+    "categoria": "Categoria 8",
+    "descripcion": "Este es el producto número 73"
+  },
+  {
+    "nombre": "Producto 74",
+    "precio": 287,
+    "stock": 45,
+    "categoria": "Categoria 8",
+    "descripcion": "Este es el producto número 74"
+  },
+  {
+    "nombre": "Producto 75",
+    "precio": 374,
+    "stock": 28,
+    "categoria": "Categoria 8",
+    "descripcion": "Este es el producto número 75"
+  },
+  {
+    "nombre": "Producto 76",
+    "precio": 117,
+    "stock": 53,
+    "categoria": "Categoria 8",
+    "descripcion": "Este es el producto número 76"
+  },
+  {
+    "nombre": "Producto 77",
+    "precio": 241,
+    "stock": 15,
+    "categoria": "Categoria 8",
+    "descripcion": "Este es el producto número 77"
+  },
+  {
+    "nombre": "Producto 78",
+    "precio": 403,
+    "stock": 10,
+    "categoria": "Categoria 8",
+    "descripcion": "Este es el producto número 78"
+  },
+  {
+    "nombre": "Producto 79",
+    "precio": 246,
+    "stock": 53,
+    "categoria": "Categoria 8",
+    "descripcion": "Este es el producto número 79"
+  },
+  {
+    "nombre": "Producto 80",
+    "precio": 167,
+    "stock": 37,
+    "categoria": "Categoria 8",
+    "descripcion": "Este es el producto número 80"
+  },
+  {
+    "nombre": "Producto 81",
+    "precio": 148,
+    "stock": 69,
+    "categoria": "Categoria 9",
+    "descripcion": "Este es el producto número 81"
+  },
+  {
+    "nombre": "Producto 82",
+    "precio": 234,
+    "stock": 99,
+    "categoria": "Categoria 9",
+    "descripcion": "Este es el producto número 82"
+  },
+  {
+    "nombre": "Producto 83",
+    "precio": 50,
+    "stock": 49,
+    "categoria": "Categoria 9",
+    "descripcion": "Este es el producto número 83"
+  },
+  {
+    "nombre": "Producto 84",
+    "precio": 186,
+    "stock": 62,
+    "categoria": "Categoria 9",
+    "descripcion": "Este es el producto número 84"
+  },
+  {
+    "nombre": "Producto 85",
+    "precio": 408,
+    "stock": 37,
+    "categoria": "Categoria 9",
+    "descripcion": "Este es el producto número 85"
+  },
+  {
+    "nombre": "Producto 86",
+    "precio": 152,
+    "stock": 6,
+    "categoria": "Categoria 9",
+    "descripcion": "Este es el producto número 86"
+  },
+  {
+    "nombre": "Producto 87",
+    "precio": 491,
+    "stock": 87,
+    "categoria": "Categoria 9",
+    "descripcion": "Este es el producto número 87"
+  },
+  {
+    "nombre": "Producto 88",
+    "precio": 438,
+    "stock": 51,
+    "categoria": "Categoria 9",
+    "descripcion": "Este es el producto número 88"
+  },
+  {
+    "nombre": "Producto 89",
+    "precio": 539,
+    "stock": 96,
+    "categoria": "Categoria 9",
+    "descripcion": "Este es el producto número 89"
+  },
+  {
+    "nombre": "Producto 90",
+    "precio": 346,
+    "stock": 85,
+    "categoria": "Categoria 9",
+    "descripcion": "Este es el producto número 90"
+  },
+  {
+    "nombre": "Producto 91",
+    "precio": 399,
+    "stock": 65,
+    "categoria": "Categoria 10",
+    "descripcion": "Este es el producto número 91"
+  },
+  {
+    "nombre": "Producto 92",
+    "precio": 524,
+    "stock": 4,
+    "categoria": "Categoria 10",
+    "descripcion": "Este es el producto número 92"
+  },
+  {
+    "nombre": "Producto 93",
+    "precio": 217,
+    "stock": 64,
+    "categoria": "Categoria 10",
+    "descripcion": "Este es el producto número 93"
+  },
+  {
+    "nombre": "Producto 94",
+    "precio": 214,
+    "stock": 22,
+    "categoria": "Categoria 10",
+    "descripcion": "Este es el producto número 94"
+  },
+  {
+    "nombre": "Producto 95",
+    "precio": 174,
+    "stock": 50,
+    "categoria": "Categoria 10",
+    "descripcion": "Este es el producto número 95"
+  },
+  {
+    "nombre": "Producto 96",
+    "precio": 296,
+    "stock": 79,
+    "categoria": "Categoria 10",
+    "descripcion": "Este es el producto número 96"
+  },
+  {
+    "nombre": "Producto 97",
+    "precio": 236,
+    "stock": 55,
+    "categoria": "Categoria 10",
+    "descripcion": "Este es el producto número 97"
+  },
+  {
+    "nombre": "Producto 98",
+    "precio": 136,
+    "stock": 77,
+    "categoria": "Categoria 10",
+    "descripcion": "Este es el producto número 98"
+  },
+  {
+    "nombre": "Producto 99",
+    "precio": 101,
+    "stock": 26,
+    "categoria": "Categoria 10",
+    "descripcion": "Este es el producto número 99"
+  },
+  {
+    "nombre": "Producto 100",
+    "precio": 314,
+    "stock": 38,
+    "categoria": "Categoria 10",
+    "descripcion": "Este es el producto número 100"
+  }
+]

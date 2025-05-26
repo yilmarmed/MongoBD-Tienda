@@ -1,0 +1,24 @@
+//Filtro precio mayores que 300
+db.productos.find({ precio: { $gt: 300 } })
+
+// filtro precio entre 200 y 400
+db.productos.find({
+  precio: { $gte: 200, $lte: 400 }
+  })
+
+  // Insertar información
+  db.productos.insertOne({
+  nombre: "Producto Especial",
+  precio: 399,
+  stock: 25,
+  categoria: "Categoria 11",
+  descripcion: "Este es un producto especial agregado manualmente."
+})
+
+//Buscar producto
+db.productos.findOne({ nombre: "Producto 25" })
+
+
+
+//Contar categoria 3
+db.productos.countDocuments({ categoria: "Categoria 3" })
