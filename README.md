@@ -13,6 +13,6 @@ switched to db tienda
 
 [text](<productos.json>)
 
-//Filtro precio mayores que 300
+//Filtros aplicados
 
 [text](<Filtros>)
